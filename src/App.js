@@ -9,5 +9,5 @@ function App() {
     </div>
   );
 }
-
+//shortest path finder app --basically a implementation of dijistras algorithm
 export default App;
